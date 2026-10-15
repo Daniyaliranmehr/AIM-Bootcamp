@@ -1,1 +1,2 @@
-print("HELLO Welcome to AIM")
+a = 4
+print(a * 2)
